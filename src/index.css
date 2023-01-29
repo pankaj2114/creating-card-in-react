@@ -1,0 +1,11 @@
+.top-heading{
+    align-items: center;
+   text-align: center; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: rgb(2, 0, 0);
+    font-weight:bold;
+    /* background-color: rgb(201, 177, 177); */
+    text-shadow: 1px 7px 2px  rgb(245, 240, 240);
+}
